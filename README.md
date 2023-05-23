@@ -4,7 +4,7 @@
 ### 함께 일하고 싶은 개발자가 되고 싶은 김진희입니다. <br> 사람들의 꿈을 이뤄주는 소프트웨어를 목표로 성장하고 있습니다.
 
 # 🛠️ Tech Stack 🛠️
-<div align="center">
+<div >
  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /></div>
@@ -23,12 +23,11 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </div>
-
+<br> 
+<br> 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotdiary&layout=compact">
 </div>
-
-[!(http://mazassumnida.wtf/api/generate_badge?boj=molihua321)](https://solved.ac/molihua321)
 
 <!--
 **robotdiary/robotdiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
