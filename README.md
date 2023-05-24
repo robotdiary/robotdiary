@@ -41,8 +41,10 @@
 </div>
 
 <div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321)](https://solved.ac/molihua321/)
- </div>
+ <a href="https://solved.ac/molihua321/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321">
+ <a/>
+</div>
 
 <!--
 **robotdiary/robotdiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
