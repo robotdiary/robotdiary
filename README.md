@@ -40,9 +40,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotdiary&layout=compact">
 </div>
 <div align=center>
- <br/>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321)](https://solved.ac/molihua321/)
- <br/>
+ ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321)
 </div>
 
 <!--
